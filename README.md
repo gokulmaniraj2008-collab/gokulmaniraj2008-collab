@@ -28,20 +28,45 @@ I'm **Gokul**, a second-year college student in Tamil Nadu, India, and founder o
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/JavaScript-0F2027?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/TypeScript-0F2027?style=for-the-badge&logo=typescript&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/C++-0F2027?style=for-the-badge&logo=cplusplus&logoColor=D4AF37"/>
+<br/>
 <img src="https://img.shields.io/badge/Next.js-0F2027?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/React-0F2027?style=for-the-badge&logo=react&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/TypeScript-0F2027?style=for-the-badge&logo=typescript&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Angular-0F2027?style=for-the-badge&logo=angular&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0F2027?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37"/>
+<br/>
 <img src="https://img.shields.io/badge/Node.js-0F2027?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/NestJS-0F2027?style=for-the-badge&logo=nestjs&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Django-0F2027?style=for-the-badge&logo=django&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/FastAPI-0F2027?style=for-the-badge&logo=fastapi&logoColor=D4AF37"/>
 <br/>
 <img src="https://img.shields.io/badge/Supabase-D4AF37?style=for-the-badge&logo=supabase&logoColor=0F2027"/>
 <img src="https://img.shields.io/badge/PostgreSQL-D4AF37?style=for-the-badge&logo=postgresql&logoColor=0F2027"/>
+<img src="https://img.shields.io/badge/MySQL-D4AF37?style=for-the-badge&logo=mysql&logoColor=0F2027"/>
+<img src="https://img.shields.io/badge/MongoDB-D4AF37?style=for-the-badge&logo=mongodb&logoColor=0F2027"/>
 <img src="https://img.shields.io/badge/Firebase-D4AF37?style=for-the-badge&logo=firebase&logoColor=0F2027"/>
 <br/>
 <img src="https://img.shields.io/badge/Vercel-2C5364?style=for-the-badge&logo=vercel&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Render-2C5364?style=for-the-badge&logo=render&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Railway-2C5364?style=for-the-badge&logo=railway&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/AWS-2C5364?style=for-the-badge&logo=amazonaws&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Docker-2C5364?style=for-the-badge&logo=docker&logoColor=D4AF37"/>
+<br/>
 <img src="https://img.shields.io/badge/Cloudinary-2C5364?style=for-the-badge&logo=cloudinary&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Razorpay-2C5364?style=for-the-badge&logo=razorpay&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Linux-2C5364?style=for-the-badge&logo=linux&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Git-2C5364?style=for-the-badge&logo=git&logoColor=D4AF37"/>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-2C5364?style=for-the-badge&logo=pandas&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Flutter-2C5364?style=for-the-badge&logo=flutter&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Android-2C5364?style=for-the-badge&logo=android&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Unity-2C5364?style=for-the-badge&logo=unity&logoColor=D4AF37"/>
+<br/>
+<img src="https://img.shields.io/badge/Figma-2C5364?style=for-the-badge&logo=figma&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Blender-2C5364?style=for-the-badge&logo=blender&logoColor=D4AF37"/>
 
 </div>
 
