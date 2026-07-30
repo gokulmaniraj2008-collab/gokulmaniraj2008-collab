@@ -75,8 +75,8 @@ I'm **Gokul**, a second-year college student in Tamil Nadu, India, and founder o
 ## GitHub Activity
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=0F2027&title_color=D4AF37&icon_color=D4AF37&text_color=cccccc"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&bg_color=0F2027&title_color=D4AF37&text_color=cccccc"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gokulmaniraj2008-collab&show_icons=true&theme=transparent&hide_border=true&bg_color=0F2027&title_color=D4AF37&icon_color=D4AF37&text_color=cccccc"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulmaniraj2008-collab&layout=compact&theme=transparent&hide_border=true&bg_color=0F2027&title_color=D4AF37&text_color=cccccc"/>
 </div>
 
 <br/>
@@ -85,7 +85,7 @@ I'm **Gokul**, a second-year college student in Tamil Nadu, India, and founder o
 
 <p align="left">
   <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
+  <a href="https://github.com/gokulmaniraj2008-collab"><img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
 </p>
 
 <div align="center">
