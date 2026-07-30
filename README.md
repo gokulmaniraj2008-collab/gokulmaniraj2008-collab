@@ -106,3 +106,4 @@ I'm **Gokul**, a second-year college student in Tamil Nadu, India, and founder o
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:2C5364,100:0F2027&height=120&section=footer"/>
 </div>
+
