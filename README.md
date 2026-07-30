@@ -96,17 +96,25 @@ Build globally impactful technology products from India while creating innovativ
 <td width="50%" valign="top">
 
 ### 🏢 GKFXL
+![Status](https://img.shields.io/badge/Status-Active-D4AF37?style=flat-square&labelColor=0A0A0A)
+
 Startup Operating System combining an Academy, Founder Dashboard, Productivity Tools, Team Management, Analytics, and Business Systems.
 
 `Next.js` `Supabase` `TypeScript`
+
+[![Repo](https://img.shields.io/badge/View-Repository-0A0A0A?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/gokulmaniraj2008-collab/gkfxl)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 GGE
+![Status](https://img.shields.io/badge/Status-Active-D4AF37?style=flat-square&labelColor=0A0A0A)
+
 AI-powered guidance platform helping students and rural communities access learning resources, career guidance, government information, and practical solutions.
 
 `Next.js` `Groq AI` `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View-Repository-0A0A0A?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/gokulmaniraj2008-collab/gge)
 
 </td>
 </tr>
@@ -114,17 +122,25 @@ AI-powered guidance platform helping students and rural communities access learn
 <td width="50%" valign="top">
 
 ### 👕 DRYNN
+![Status](https://img.shields.io/badge/Status-Active-D4AF37?style=flat-square&labelColor=0A0A0A)
+
 Premium streetwear and custom apparel brand focused on modern design, high-quality clothing, custom printing, branding, and a digital-first shopping experience.
 
 `Next.js` `Supabase` `Cloudinary`
+
+[![Repo](https://img.shields.io/badge/View-Repository-0A0A0A?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/gokulmaniraj2008-collab/drynn)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 Santro
+![Status](https://img.shields.io/badge/Status-In%20Development-D4AF37?style=flat-square&labelColor=0A0A0A)
+
 Multi-vendor marketplace connecting customers, shops, and delivery partners through a scalable commerce platform with authentication, payments, and logistics.
 
 `Next.js` `Supabase` `PostgreSQL`
+
+[![Repo](https://img.shields.io/badge/View-Repository-0A0A0A?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/gokulmaniraj2008-collab/santro)
 
 </td>
 </tr>
@@ -132,21 +148,31 @@ Multi-vendor marketplace connecting customers, shops, and delivery partners thro
 <td width="50%" valign="top">
 
 ### 📊 StackMonitor AI
+![Status](https://img.shields.io/badge/Status-Concept-D4AF37?style=flat-square&labelColor=0A0A0A)
+
 AI-powered monitoring dashboard for Supabase, Firebase, APIs, cloud services, databases, analytics, and intelligent alerts.
 
 `AI` `Monitoring` `Cloud`
+
+[![Repo](https://img.shields.io/badge/View-Repository-0A0A0A?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/gokulmaniraj2008-collab/stackmonitor-ai)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Agricultural AI Robot
+![Status](https://img.shields.io/badge/Status-Concept-D4AF37?style=flat-square&labelColor=0A0A0A)
+
 Autonomous farming robot for soil monitoring, irrigation automation, crop health analysis, fertilizer recommendations, disease detection, obstacle avoidance, and smart farm management.
 
 `Robotics` `AI` `IoT`
 
+[![Repo](https://img.shields.io/badge/View-Repository-0A0A0A?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/gokulmaniraj2008-collab/agricultural-ai-robot)
+
 </td>
 </tr>
 </table>
+
+<sub>⚠️ Status badges and repo links above are placeholders — update the status (Active / In Development / Concept) and swap in your real repo URLs for each project.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>
 
@@ -199,6 +225,8 @@ Autonomous farming robot for soil monitoring, irrigation automation, crop health
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=D4AF37)
 ![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37)
 ![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=D4AF37)
+![Render](https://img.shields.io/badge/Render-0A0A0A?style=for-the-badge&logo=render&logoColor=D4AF37)
+![Railway](https://img.shields.io/badge/Railway-0A0A0A?style=for-the-badge&logo=railway&logoColor=D4AF37)
 
 **Tools**
 
@@ -342,22 +370,6 @@ I believe in shipping end-to-end — from database schema to deployed UI — and
 ## 🌐 Open Source
 
 I'm actively working toward contributing more to the open-source ecosystem — sharing tools, components, and templates from GKFXL, Santro, and other projects as they mature.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-0A0A0A?style=for-the-badge&logo=x&logoColor=D4AF37)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-0A0A0A?style=for-the-badge&logo=instagram&logoColor=D4AF37)](https://instagram.com/your-handle)
-
-<sub>Replace the placeholders above (email, portfolio, social links) with your real details.</sub>
-
-</div>
 
 <br/>
 
