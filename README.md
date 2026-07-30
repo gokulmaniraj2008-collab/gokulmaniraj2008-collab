@@ -1,16 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:D4AF37&height=200&section=header&text=Gokul&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20GKFXL%20%7C%20Building%20for%20Real%20Users&descAlignY=55&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:2C5364,100:D4AF37&height=200&section=header&text=Gokul&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20GKFXL%20%7C%20Building%20for%20Real%20Users&descAlignY=55&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=650&lines=Student+Founder+%40+GKFXL;Building+Practical+Tech+for+Indian+Users;Full+Stack+%7C+Next.js+%2B+Supabase" alt="Typing SVG"/>
+<br/>
+
+# Hey there, I'm Gokul 👋
+
+<img src="https://komarev.com/ghpvc/?username=gokulmaniraj2008-collab&label=Profile%20Views&color=D4AF37&style=for-the-badge"/>
+<a href="https://github.com/gokulmaniraj2008-collab?tab=followers"><img src="https://img.shields.io/github/followers/gokulmaniraj2008-collab?label=Followers&style=for-the-badge&color=D4AF37&labelColor=0F2027"/></a>
+<a href="https://github.com/gokulmaniraj2008-collab?tab=stars"><img src="https://img.shields.io/github/stars/gokulmaniraj2008-collab?label=Stars&style=for-the-badge&color=D4AF37&labelColor=0F2027"/></a>
 
 </div>
 
 <br/>
 
-## Who I Am
+## About Me
 
-I'm **Gokul**, a second-year college student in Tamil Nadu, India, and founder of **GKFXL**. I build practical products aimed at Indian users — especially rural communities and students — end to end, from database design to UI to deployment.
+- 🎓 Second-year college student in Tamil Nadu, India
+- 🚀 Founder of **GKFXL**, building practical tech products for Indian users — especially rural communities and students
+- 🛠️ Build end to end: database design, backend, UI, and deployment
+- 📚 Currently building **GKFXL** (Academy + Founder Dashboard) and **GGE**, an AI guidance platform for rural users
 
 <br/>
 
@@ -100,10 +109,9 @@ I'm **Gokul**, a second-year college student in Tamil Nadu, India, and founder o
 
 <p align="left">
   <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
-  <a href="https://github.com/gokulmaniraj2008-collab"><img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
+  <a href="https://github.com/gokulmaniraj2008-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:2C5364,100:0F2027&height=120&section=footer"/>
 </div>
-
