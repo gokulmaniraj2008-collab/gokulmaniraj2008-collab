@@ -24,6 +24,21 @@ I'm **Gokul**, a second-year college student in Tamil Nadu, India, and founder o
 
 <br/>
 
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/gokulmaniraj2008-collab/GKFXL">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=GKFXL&theme=transparent&hide_border=true&bg_color=0F2027&title_color=D4AF37&icon_color=D4AF37&text_color=cccccc"/>
+</a>
+<a href="https://github.com/gokulmaniraj2008-collab/GGE">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=GGE&theme=transparent&hide_border=true&bg_color=0F2027&title_color=D4AF37&icon_color=D4AF37&text_color=cccccc"/>
+</a>
+
+</div>
+
+<br/>
+
 ## Tech Stack
 
 <div align="center">
