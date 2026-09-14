@@ -1,360 +1,303 @@
-<div align="center">
+<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1A1A2E,100:0A0A0A&height=280&section=header&text=GOKUL&fontSize=90&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20GKFXL%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>  <a href="https://github.com/gokulmaniraj2008-collab">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile;Hi%2C+I'm+Gokul;Founder+of+GKFXL;Full+Stack+Developer;AI+Engineer;Startup+Builder;Building+AI+Products;Building+SaaS+Platforms;Building+Smart+Agriculture+Solutions;Building+Automation+Systems;Next.js+Developer;Supabase+Developer;JavaScript+Developer;TypeScript+Developer;Agricultural+Engineering+Student;100%2B+Software+Prototypes;Open+Source+Contributor;Dream+%E2%80%A2+Build+%E2%80%A2+Scale;Always+Learning;Always+Building;Engineering+the+Future;Technology+for+Rural+India;Building+Products+That+Matter;Thanks+for+Visiting+My+GitHub" alt="Typing SVG" />  
+</a>  <br/>  <img src="https://img.shields.io/badge/Founder-GKFXL-D4AF37?style=for-the-badge&labelColor=0A0A0A" />  
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-D4AF37?style=for-the-badge&labelColor=0A0A0A" />  
+<img src="https://img.shields.io/badge/AI-Engineer-D4AF37?style=for-the-badge&labelColor=0A0A0A" />  
+<img src="https://img.shields.io/badge/Coimbatore-Tamil%20Nadu%2C%20India-D4AF37?style=for-the-badge&labelColor=0A0A0A" />  </div>  <br/>  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>  🧭 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:D4AF37,100:000000&height=230&section=header&text=GOKUL&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Founder%20of%20GKFXL%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=57&descSize=17" width="100%" alt="Gokul profile header"/>
+I'm Gokul — Founder of GKFXL, a Full Stack Developer, AI Engineer, and Agricultural Engineering student based in Coimbatore, Tamil Nadu, India. I build AI-powered software, SaaS platforms, robotics, IoT systems, and smart agriculture solutions that solve real-world problems for students, startups, businesses, farmers, and rural communities.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=D4AF37&center=true&vCenter=true&width=900&lines=Founder+of+GKFXL;Full-Stack+Developer;AI+Engineer;Startup+Builder;Building+AI+%2B+SaaS+Products;Building+Smart+Agriculture+Solutions;Always+Learning+%E2%80%A2+Always+Building" alt="Animated introduction"/>
+I've designed and built 100+ software prototypes, working end-to-end across architecture, database design, REST APIs, AI integration, cloud deployment, and product design.
 
-<br/>
+<table>  
+<tr>  
+<td width="50%" valign="top">  🎯 Mission
 
-<img src="https://img.shields.io/badge/GKFXL-Founder-D4AF37?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Full--Stack-Developer-D4AF37?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/AI-Engineer-D4AF37?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/AgriTech-Builder-D4AF37?style=for-the-badge&labelColor=111827"/>
+Building AI-powered software, SaaS platforms, robotics, IoT systems, and smart agriculture solutions that solve real-world problems for students, startups, businesses, farmers, and rural communities.
 
-<br/><br/>
+</td>  
+<td width="50%" valign="top">  🔭 Vision
 
-<a href="#about-me">About</a> • <a href="#featured-projects">Projects</a> • <a href="#engineering-stack">Stack</a> • <a href="#ai-engineering">AI</a> • <a href="#agritech">AgriTech</a> • <a href="#github-proof">GitHub</a> • <a href="#lets-build">Connect</a>
+Build globally impactful technology products from India while creating innovative solutions in AI, education, agriculture, and automation.
 
-</div>
+</td>  
+</tr>  
+</table>  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>  🚀 Experience
 
----
+<table>  
+<tr>  
+<td width="33%" valign="top">  Roles
 
-# 👋 About Me
+Founder, GKFXL
 
-I'm **Gokul** — Founder of **GKFXL**, Full-Stack Developer, AI Engineer, startup builder, and Agricultural Engineering student.
+Full Stack Developer
 
-I build practical products at the intersection of **software, AI, automation, agriculture, and business** — from problem discovery and architecture to development, testing, deployment, and iteration.
+AI Engineer
 
-> **Find a real problem → understand it → design the system → build it → test it → ship it → improve it.**
+Startup Builder
 
-### 🎯 Mission
 
-Build useful, scalable technology that solves real problems and turns ambitious ideas into working products.
+</td>  
+<td width="33%" valign="top">  Focus
 
-### 🌍 Vision
+Product Designer
 
-**Build from India → solve real problems → create global impact.**
+Agricultural Engineering Student
 
----
+End-to-End Product Development
 
-# 🏢 GKFXL
+Full Stack Architecture
 
-**GKFXL** is my long-term technology ecosystem and startup vision.
 
-```text
-AI + SOFTWARE + AUTOMATION + AGRICULTURE + EDUCATION + BUSINESS
-```
+</td>  
+<td width="33%" valign="top">  Depth
 
-The goal is to create practical systems for students, developers, startups, businesses, farmers, rural communities, and technology teams.
+Database Design
 
----
+REST API Development
 
-# 🚀 Featured Projects
+AI Integration
 
-## 🌾 FarmPlug AI
+Cloud Deployment • UI/UX
 
-**Your Farm's Plug to Every Market.**
 
-AI-powered marketplace intelligence connecting:
+</td>  
+</tr>  
+</table>  <div align="center">  
 
-```text
-Farmers / FPOs ↔ FarmPlug AI ↔ Buyers / Processors / Exporters
-```
 
-- 📈 Demand forecasting
-- 💰 Price discovery
-- 🌱 Production decisions
-- 🛒 Buyer matching
-- 📦 Bulk aggregation
-- 🚚 Route optimization
-- 🤝 Stronger market linkages
 
-**Stack:** Next.js · TypeScript · Supabase · AI
 
-## 🤖 AgriBot AI
+</div>  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>  💼 Featured Projects
 
-Smart agriculture robotics combining **software + AI + IoT + robotics + agriculture**.
+<table>  
+<tr>  
+<td width="50%" valign="top">  🏢 GKFXL
 
-- 🌱 Soil monitoring
-- 💧 Irrigation automation
-- 📍 GPS positioning
-- 📷 Crop observation
-- 🚧 Obstacle detection
-- 🤖 Robotic movement
-- ☁️ Cloud-connected control
 
-**Hardware:** ESP32 · ESP32-CAM · GPS · Sensors · Motors
 
-**Software:** Next.js · TypeScript · Supabase · IoT
+Startup Operating System combining an Academy, Founder Dashboard, Productivity Tools, Team Management, Analytics, and Business Systems.
 
-## 🧠 GKFXL Platform
+Next.js Supabase TypeScript
 
-Technology ecosystem for productivity, AI tools, business systems, analytics, learning, and workflows.
 
-**Stack:** Next.js · TypeScript · Supabase · PostgreSQL
 
-## 🧠 GGE
+</td>  
+<td width="50%" valign="top">  🌱 GGE
 
-AI-powered guidance platform for education, careers, learning resources, government information, and practical solutions.
 
-**Stack:** Next.js · AI · Tailwind CSS
 
-## 👕 DRYNN
+AI-powered guidance platform helping students and rural communities access learning resources, career guidance, government information, and practical solutions.
 
-Premium streetwear and custom apparel platform.
+Next.js Groq AI Tailwind CSS
 
-**Stack:** Next.js · Supabase · Cloudinary
 
-## 🛒 Santro
 
-Multi-vendor marketplace concept connecting **Customers → Shops → Delivery Partners**.
+</td>  
+</tr>  
+<tr>  
+<td width="50%" valign="top">  👕 DRYNN
 
-**Focus:** Auth · Products · Orders · Payments · Logistics · Vendor Management
 
-**Stack:** Next.js · Supabase · PostgreSQL
 
----
+Premium streetwear and custom apparel brand focused on modern design, high-quality clothing, custom printing, branding, and a digital-first shopping experience.
 
-# 🧰 Engineering Stack
+Next.js Supabase Cloudinary
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,postgres,supabase,docker,git,github,vercel,linux,figma&perline=8" alt="Core engineering stack"/>
-</div>
 
-### 🥇 Primary
-**TypeScript · JavaScript · Python · React · Next.js · Supabase · PostgreSQL**
 
-### ⚡ Active
-**AI Engineering · RAG · REST APIs · Docker · GitHub Actions · Vercel · Cloud · IoT · Robotics**
+</td>  
+<td width="50%" valign="top">  🛒 Santro
 
-### 🧪 Exploring
-**C · C++ · Java · C# · Go · Rust · Kotlin · Swift · Dart · R · MATLAB · Julia · PHP · Ruby · Lua · Scala · Zig**
 
-> Technology coverage represents learning, experimentation, project exposure, and expanding capability — not equal proficiency across every technology.
 
----
+Multi-vendor marketplace connecting customers, shops, and delivery partners through a scalable commerce platform with authentication, payments, and logistics.
 
-# 🌐 Full-Stack Engineering
+Next.js Supabase PostgreSQL
 
-| Layer | Technologies |
-|---|---|
-| **Frontend** | React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind |
-| **Backend** | Node.js · Express · Next.js APIs · REST |
-| **Data** | PostgreSQL · Supabase · SQL · Firebase |
-| **Auth** | Supabase Auth · Sessions · RBAC |
-| **APIs** | REST · GraphQL · AI APIs · Integrations |
-| **Deployment** | Vercel · Docker · GitHub Actions |
 
----
 
-# 🤖 AI Engineering
+</td>  
+</tr>  
+<tr>  
+<td width="50%" valign="top">  📊 StackMonitor AI
 
-I build and explore:
 
-- LLM applications
-- AI assistants
-- Retrieval-Augmented Generation
-- Embeddings and semantic search
-- AI APIs
-- Intelligent workflows
-- Multimodal AI
-- AI-powered SaaS
-- Local AI and agent systems
-- Decision-support systems
 
-**AI Stack:** Python · TypeScript · AI APIs · RAG · Embeddings · LangChain · Hugging Face · Local AI
+AI-powered monitoring dashboard for Supabase, Firebase, APIs, cloud services, databases, analytics, and intelligent alerts.
 
----
+AI Monitoring Cloud
 
-# ☁️ Cloud & DevOps
 
-**Git · GitHub · GitHub Actions · Docker · Linux · Vercel · Render · Supabase**
 
-Focus: **CI/CD · deployment · environment management · cloud applications · build pipelines · production workflows**
+</td>  
+<td width="50%" valign="top">  🤖 Agricultural AI Robot
 
----
 
-# 🔐 Security Mindset
 
-Security is part of the development lifecycle.
+Autonomous farming robot for soil monitoring, irrigation automation, crop health analysis, fertilizer recommendations, disease detection, obstacle avoidance, and smart farm management.
 
-- 🔑 Protect environment variables and secrets
-- 🔒 Authentication and authorization
-- ✅ Input validation
-- 🛡️ API and database security
-- 📦 Dependency awareness
-- 🔄 Secure Git workflows
+Robotics AI IoT
 
-> **Never commit secrets.**
 
----
 
-# 🌾 AgriTech
+</td>  
+</tr>  
+</table>  <sub>⚠️ Status badges and repo links above are placeholders — update the status (Active / In Development / Concept) and swap in your real repo URLs for each project.</sub>
 
-My Agricultural Engineering background creates a strong intersection:
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>  💻 Tech Stack
 
-```text
-AGRICULTURE + SOFTWARE + AI + IoT + ROBOTICS
-```
+<div align="center">  Frontend
 
-Areas of interest:
 
-**Smart farming · Precision agriculture · Crop monitoring · Soil intelligence · Irrigation automation · Agricultural robotics · Market intelligence · Farmer decision support · Rural technology · Agricultural AI**
 
-> **Use engineering to solve practical agricultural problems.**
 
----
 
-# 🧠 Product Engineering
 
-```text
-💡 IDEA
-  ↓
-🔎 RESEARCH
-  ↓
-🎯 PROBLEM
-  ↓
-🏗️ ARCHITECTURE
-  ↓
-🎨 DESIGN
-  ↓
-💻 DEVELOPMENT
-  ↓
-🧪 TESTING
-  ↓
-🔐 SECURITY
-  ↓
-🚀 DEPLOYMENT
-  ↓
-📊 MEASURE
-  ↓
-🔄 ITERATE
-```
 
-I care about the complete product lifecycle — not just writing code.
 
-### Startup Mindset
 
-```text
-Problem → User → Product → Technology → Business → Distribution → Growth
-```
+Backend
 
----
 
-# 🧭 Engineering Principles
 
-| Principle | Meaning |
-|---|---|
-| **Build** | Ideas become valuable when they become real products. |
-| **Learn** | Every project should increase capability. |
-| **Experiment** | Prototypes create understanding faster than assumptions. |
-| **Validate** | Real problems and feedback matter. |
-| **Secure** | Security is part of engineering. |
-| **Ship** | Useful software beats unfinished perfection. |
-| **Improve** | Every release creates the next opportunity. |
 
----
 
-# 📊 GitHub Proof
+Databases
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gokulmaniraj2008-collab&show_icons=true&hide_border=true&rank_icon=github&bg_color=111827&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" height="170" alt="GitHub statistics"/>
 
-<img src="https://streak-stats.demolab.com?user=gokulmaniraj2008-collab&hide_border=true&background=111827&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=9CA3AF" height="170" alt="GitHub streak"/>
 
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulmaniraj2008-collab&bg_color=111827&color=FFFFFF&line=D4AF37&point=D4AF37&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
+Languages
 
-<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=gokulmaniraj2008-collab&theme=darkhub&no-frame=true&no-bg=true&row=2&column=6" width="90%" alt="GitHub trophies"/>
 
-</div>
 
----
 
-# 🐍 Contribution Journey
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/gokulmaniraj2008-collab/gokulmaniraj2008-collab/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-</div>
+AI & Machine Learning
 
----
 
-# 📚 Currently Learning
 
-**Advanced Next.js · AI Engineering · LLM Applications · RAG · System Design · Cloud Architecture · PostgreSQL · Docker · DevOps · Machine Learning · Automation · Robotics · Agricultural Technology**
 
----
 
-# 🔬 Research Interests
 
-**AI for agriculture · AI agents · autonomous systems · agricultural robotics · rural technology · intelligent marketplaces · decision-support systems · local AI · developer productivity · automation · cloud architecture · human-AI collaboration**
 
----
 
-# 🌍 Building in Public
+Cloud & DevOps
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2600&pause=800&color=D4AF37&center=true&vCenter=true&width=850&lines=Learning+%E2%86%92+Experimenting+%E2%86%92+Building;Failing+%E2%86%92+Debugging+%E2%86%92+Improving;Ideas+%E2%86%92+Products+%E2%86%92+Impact;Building+from+India+%F0%9F%87%AE%F0%9F%87%B3+for+the+World+%F0%9F%8C%8D" alt="Building in public"/>
-</div>
 
-I believe development is **learning → experimenting → failing → debugging → improving → sharing**.
 
----
 
-# 🎯 Goals
 
-- Build products that solve real problems
-- Grow GKFXL into a meaningful technology ecosystem
-- Create scalable AI and SaaS products
-- Push practical AgriTech innovation
-- Contribute to open source
-- Strengthen system design and production engineering
-- Build from India for global users
 
----
 
-# 🌐 Open Source & Collaboration
 
-Interested in collaborating around:
 
-**AI Products · SaaS · Developer Tools · AgriTech · Automation · IoT · Robotics · Open Source · Ambitious Startup Ideas**
+Tools
 
-If a project solves a real problem and can create measurable value, I'm interested in building it.
 
----
 
-# 🇮🇳 India → 🌍 Global
 
-<div align="center">
+</div>  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>  📊 Portfolio Highlights
 
-### **Building from India. Thinking globally. Solving real problems.**
+<div align="center">  🚀 Prototypes	🤖 AI Apps	💼 SaaS Products	🏗️ Startup MVPs
 
-</div>
+100+	Multiple	Multiple	Multiple
 
-My long-term goal is to create technology from India that remains grounded in real-world needs while serving users globally.
 
----
+Web Applications • Smart Agriculture Solutions • Robotics Projects • Automation Systems
+Full Stack Projects • Product Design • Cloud Applications
 
-# 🤝 Let's Build
+</div>  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>  📈 GitHub Analytics
 
-<div align="center">
+<div align="center">  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gokulmaniraj2008-collab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&ring_color=D4AF37"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulmaniraj2008-collab&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=FFFFFF"/>  <img src="https://streak-stats.demolab.com?user=gokulmaniraj2008-collab&theme=dark&hide_border=true&background=0A0A0A&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulmaniraj2008-collab&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=D4AF37&line=D4AF37&point=FFFFFF" width="100%"/>  </div>  🏆 Trophies
 
-### **Dream → Design → Build → Test → Ship → Improve**
+<div align="center">  
+<img src="https://github-profile-trophy.vercel.app/?username=gokulmaniraj2008-collab&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />  
+</div>  🐍 Contribution Snake
 
-<br/>
+<div align="center">  <!--  
+  Snake animation instructions:  
+  1. Add the "generate-snake" GitHub Action (Platane/snk) to a repo named gokulmaniraj2008-collab/gokulmaniraj2008-collab  
+  2. It will auto-generate the SVG below on a schedule  
+-->  <img src="https://raw.githubusercontent.com/gokulmaniraj2008-collab/gokulmaniraj2008-collab/output/github-contribution-grid-snake-dark.svg" width="100%"/>  </div>  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>  📌 Pinned Repositories
 
-⭐ **If you find something useful here, consider starring a repository.**
+<div align="center">  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=gkfxl&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=FFFFFF" />  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=santro&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=FFFFFF" />  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=drynn&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=FFFFFF" />  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=gge&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=FFFFFF" />  <sub>Replace repo names above with your actual repository names to activate these cards.</sub>
 
-<br/><br/>
+</div>  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>  📚 Currently Learning
 
-Founder • Developer • AI Engineer • Builder
+<div align="center">  
 
-<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:D4AF37,100:111827&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
 
-</div>
+
+
+
+
+
+
+
+
+</div>  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>  🎯 Goals
+
+🌍 Build globally recognized software products
+
+🏢 Grow GKFXL into a successful technology company
+
+🤖 Create impactful AI products
+
+🌱 Modernize agriculture through technology
+
+🎓 Help students and startups with practical software
+
+🌐 Contribute to open source
+
+🏆 Become a world-class software engineer
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>  🧠 Coding Philosophy
+
+> "Build fast, build right, and never stop learning."
+
+
+
+I believe in shipping end-to-end — from database schema to deployed UI — and iterating quickly with AI-assisted workflows. Every prototype is a step toward a product that matters.
+
+☀️ Daily Workflow
+
+06:00  →  Plan the day, review priorities  
+08:00  →  Deep work: architecture & backend  
+12:00  →  AI integration & experimentation  
+15:00  →  UI/UX design & frontend polish  
+18:00  →  Testing, deployment, code review  
+21:00  →  Learning: AI, systems, research
+
+🎲 Fun Facts
+
+🇮🇳 Building technology from Coimbatore, Tamil Nadu — for a global audience
+
+🌾 Merging agricultural engineering with AI and robotics
+
+⚡ Has designed and built 100+ software prototypes
+
+🛠️ Prefers full end-to-end ownership of every product
+
+
+<div align="center">  💬 Random Developer Quote
+
+
+
+</div>  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>  🌐 Open Source
+
+I'm actively working toward contributing more to the open-source ecosystem — sharing tools, components, and templates from GKFXL, Santro, and other projects as they mature.
+
+<br/>  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1A1A2E,100:0A0A0A&height=150&section=footer&text=Dream%20•%20Build%20•%20Scale&fontSize=24&fontColor=D4AF37&animation=fadeIn" width="100%"/>  <div align="center">  
+<sub>⭐ Thanks for visiting my profile — feel free to explore my repositories and connect!</sub>  
+</div>  
+This is my current read me
