@@ -116,7 +116,7 @@ Autonomous farming robot for soil monitoring, irrigation automation, crop health
 </tr>
 </table>
 
-<sub>⚠️ Status badges and repo links above are placeholders — update the status (Active / In Development / Concept) and swap in your real repo URLs for each project.</sub>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>
 
