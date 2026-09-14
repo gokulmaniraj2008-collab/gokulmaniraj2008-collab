@@ -1,20 +1,36 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7C3AED&height=220&section=header&text=GOKUL%20M&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Product%20Builder&descAlignY=58&descSize=18" width="100%"/>GOKUL M
+<div align="center">
 
-Full Stack Developer • AI Engineer • Product Builder
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:7C3AED,75:A855F7,100:D4AF37&height=260&section=header&text=GOKUL%20M&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20PRODUCT%20BUILDER&descAlignY=58&descSize=17" width="100%"/>
 
-Founder of GKFXL | Agricultural Engineering Student | AI • Software • Automation • Robotics
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;AI+ENGINEER;PRODUCT+BUILDER;FOUNDER+OF+GKFXL;AGRICULTURE+%C3%97+AI+%C3%97+ROBOTICS;BUILDING+SOFTWARE+THAT+CREATES+REAL-WORLD+IMPACT" />
 
-""GitHub" (https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)" (https://github.com/gokulmaniraj2008-collab)
-""Portfolio" (https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF)" (https://gokulmaniraj2008-collab.github.io/)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)" (https://www.linkedin.com/)
+<br>
 
-</div>---
+<img src="https://img.shields.io/badge/GKFXL-000000?style=for-the-badge&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-7C3AED?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-D4AF37?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/AGRITECH-7C3AED?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ROBOTICS-000000?style=for-the-badge&logoColor=D4AF37"/>
 
-◆ About Me
+<br><br>
 
-Hi, I'm Gokul M — a Full Stack Developer, AI Engineer, Product Builder, and Agricultural Engineering student at RVS Institute of Technology.
+<a href="https://github.com/gokulmaniraj2008-collab"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
+<a href="https://gokulmaniraj2008-collab.github.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
 
-I enjoy transforming ideas into practical software products and experimenting with AI, automation, web technologies, robotics, IoT, cloud systems, and developer tools.
+<br><br>
+
+**🟣 SOFTWARE • 🟡 AI • 🟣 AUTOMATION • 🟡 AGRITECH • 🟣 ROBOTICS**
+
+</div>
+
+---
+
+# 🟣 ◆ ABOUT ME
+
+Hi, I'm **Gokul M** — a Full Stack Developer, AI Engineer, Product Builder, and second-year Agricultural Engineering student at **RVS Institute of Technology**.
+
+I enjoy transforming ideas into practical software products and experimenting with **AI, automation, web technologies, robotics, IoT, cloud systems, and developer tools**.
 
 My engineering interests sit at the intersection of:
 
@@ -30,29 +46,45 @@ My engineering interests sit at the intersection of:
 
 I learn primarily by building real systems, testing them, finding failures, improving the architecture, and turning prototypes into usable products.
 
-Current Identity
+### 🟡 Current Identity
 
-Full Stack Developer • AI Engineer • Product Builder • AgriTech Developer
+**Full Stack Developer • AI Engineer • Product Builder • AgriTech Developer**
 
 ---
 
-◈ Mission
+# 🟡 ◆ MISSION
 
-«Build useful technology that solves real problems.»
+> **Build useful technology that solves real problems.**
 
 My mission is to combine software engineering, AI, automation, and domain knowledge to create products that can move beyond prototypes and deliver practical real-world value.
 
-◈ Vision
+```text
+SOFTWARE
+    +
+AI
+    +
+AUTOMATION
+    +
+AGRICULTURE
+    +
+ROBOTICS
+    +
+CLOUD
+    ↓
+REAL-WORLD IMPACT
+```
+
+# 🟣 ◆ VISION
 
 Build scalable technology products across:
 
-AI → Software → Automation → Agriculture → Robotics → Cloud → Real-World Impact
+**AI → Software → Automation → Agriculture → Robotics → Cloud → Real-World Impact**
 
 ---
 
-🚀 Featured Projects
+# 🟡 ◆ FEATURED PROJECTS
 
-🧠 GKFXL
+## 🧠 GKFXL
 
 My personal technology ecosystem focused on:
 
@@ -63,92 +95,101 @@ My personal technology ecosystem focused on:
 - Experimental technologies
 - Product engineering
 
-🌐 GGE
+## ⚙️ GGE
 
 A technology/product development initiative focused on experimenting with software, platforms, and digital products.
 
-⚡ DRYNN
+## 🚀 DRYNN
 
 A software/product concept exploring modern digital systems and user-focused technology.
 
-🖥️ Santro
+## 💻 Santro
 
 A technology project focused on building practical software experiences and experimentation.
 
-🤖 StackMonitor AI
+## 📊 StackMonitor AI
 
 An AI-oriented developer/system monitoring concept focused on improving visibility into software environments.
 
-🌱 Agricultural AI Robot
+## 🌱 Agricultural AI Robot
 
 An agricultural robotics project combining:
 
-- ESP32
-- ESP32-CAM
-- GPS
-- Soil monitoring
-- Environmental sensors
-- Ultrasonic obstacle detection
-- Motor control
-- Water-pump automation
-- Cloud communication
-- AI/dashboard integration
+**ESP32 • ESP32-CAM • GPS • Soil Monitoring • Environmental Sensors • Ultrasonic Detection • Motor Control • Water-Pump Automation • Cloud Communication • AI/Dashboard Integration**
 
 The goal is to explore how agriculture + robotics + AI + IoT can work together to solve practical field problems.
 
+```text
+SENSORS
+   ↓
+ESP32
+   ↓
+ROBOT
+   ↓
+INTERNET
+   ↓
+CLOUD
+   ↓
+AI
+   ↓
+AGRICULTURAL DASHBOARD
+```
+
 ---
 
-💻 Programming Languages
+# 🟣 ◆ PROGRAMMING LANGUAGES
 
 My programming-language learning and development areas include:
 
-Language| Focus
-Python| AI, automation, backend, data science
-Java| Application development
-C| Systems & embedded programming
-C++| Systems, performance & robotics
-C#| .NET, application & game development
-JavaScript| Web & application development
-TypeScript| Modern web & full-stack development
-Go| Backend, cloud & systems
-Rust| Systems & high-performance software
-Kotlin| Android development
-Swift| iOS development
-Dart| Flutter development
-Ruby| Web & scripting
-PHP| Web development
-R| Data science & statistics
-MATLAB| Engineering & numerical computing
-Scala| JVM & data systems
-Perl| Scripting & automation
-Lua| Scripting & game development
-Objective-C| Apple ecosystem
-Julia| Scientific & numerical computing
-Zig| Systems programming
-Assembly| Low-level computing
-GDScript| Game development
+**Python • Java • C • C++ • C# • JavaScript • TypeScript • Go • Rust • Kotlin • Swift • Dart • Ruby • PHP • R • MATLAB • Scala • Perl • Lua • Objective-C • Julia • Zig • Assembly • GDScript**
+
+### General-Purpose
+
+`Python` `Java` `C` `C++` `C#` `JavaScript` `TypeScript` `Go` `Rust` `Kotlin` `Swift` `Dart` `Ruby` `PHP` `R` `MATLAB` `Scala` `Perl` `Lua` `Objective-C`
+
+### Web Development
+
+`HTML` `CSS` `JavaScript` `TypeScript` `PHP` `Python` `Ruby` `Go` `Rust`
+
+> HTML is a markup language and CSS is a styling language; both are included as core web technologies.
+
+### Mobile
+
+`Dart → Flutter` `Kotlin → Android` `Java → Android` `Swift → iOS` `C# → .NET / MAUI`
+
+### AI / Data Science
+
+`Python` `R` `Julia` `MATLAB` `C++` `Rust`
+
+### Systems / High Performance
+
+`C` `C++` `Rust` `Go` `Zig` `Assembly`
+
+### Database / Query
+
+`SQL` `PL/SQL` `T-SQL` `GraphQL`
+
+### Scripting / Automation
+
+`Bash` `Shell` `PowerShell` `Python` `JavaScript` `Perl` `Ruby`
+
+### Game Development
+
+`C++` `C#` `GDScript` `Lua` `JavaScript` `TypeScript`
 
 ---
 
-🌐 Web Development
+# 🟡 ◆ WEB DEVELOPMENT
 
-Core
+### Frontend
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
 
-Backend / Full Stack
+### Backend
 
-- Python
-- PHP
-- Ruby
-- Go
-- Rust
-- JavaScript / TypeScript
+`Node.js` `Python` `FastAPI` `PHP` `Go` `Rust` `REST APIs`
 
-Development Areas
+### Development Areas
 
 - Responsive Web Applications
 - Full-Stack Applications
@@ -161,29 +202,23 @@ Development Areas
 
 ---
 
-📱 Mobile Development
+# 🟣 ◆ MOBILE DEVELOPMENT
 
-Technology| Platform
-Dart → Flutter| Android / iOS
-Kotlin| Android
-Java| Android
-Swift| iOS
-C# → .NET / MAUI| Cross-platform
+| Technology | Platform |
+|---|---|
+| Dart / Flutter | Android + iOS |
+| Kotlin | Android |
+| Java | Android |
+| Swift | iOS |
+| C# / .NET MAUI | Cross-platform |
 
 ---
 
-🤖 AI / Data Science
+# 🟡 ◆ AI & DATA SCIENCE
 
-Technologies I explore for AI and data-driven systems:
+`Python` `R` `Julia` `MATLAB` `C++` `Rust`
 
-- Python
-- R
-- Julia
-- MATLAB
-- C++
-- Rust
-
-Areas
+### Areas
 
 - Artificial Intelligence
 - Machine Learning
@@ -194,19 +229,29 @@ Areas
 - Intelligent Applications
 - Predictive Systems
 - AI-powered Dashboards
+- RAG Systems
+
+```text
+DATA
+ ↓
+PROCESSING
+ ↓
+MODEL
+ ↓
+INTELLIGENCE
+ ↓
+DECISION
+ ↓
+ACTION
+```
 
 ---
 
-⚙️ Systems & High Performance
+# 🟣 ◆ SYSTEMS & HIGH PERFORMANCE
 
-- C
-- C++
-- Rust
-- Go
-- Zig
-- Assembly
+`C` `C++` `Rust` `Go` `Zig` `Assembly`
 
-Interests
+### Interests
 
 - Systems Programming
 - Performance Optimization
@@ -218,18 +263,15 @@ Interests
 
 ---
 
-🗄️ Database & Query Technologies
+# 🟡 ◆ DATABASE & QUERY TECHNOLOGIES
 
-- SQL
-- PL/SQL
-- T-SQL
-- GraphQL
+`SQL` `PL/SQL` `T-SQL` `GraphQL`
 
-Database Interests
+### Database Interests
 
-- Relational Databases
 - PostgreSQL
 - Supabase
+- Relational Databases
 - Data Modeling
 - API-driven Data Systems
 - Real-time Applications
@@ -238,168 +280,125 @@ Database Interests
 
 ---
 
-🖥️ Scripting & Automation
+# 🟣 ◆ SCRIPTING & AUTOMATION
 
-- Bash / Shell
-- PowerShell
-- Python
-- JavaScript
-- Perl
-- Ruby
+`Bash` `Shell` `PowerShell` `Python` `JavaScript` `Perl` `Ruby`
 
-Automation Interests
-
-Script → Automate → Test → Monitor → Improve
+```text
+SCRIPT → AUTOMATE → TEST → MONITOR → IMPROVE
+```
 
 ---
 
-🎮 Game Development
+# 🟡 ◆ GAME DEVELOPMENT
 
-Technologies I explore:
+`C++` `C#` `GDScript` `Lua` `JavaScript` `TypeScript`
 
-- C++
-- C#
-- GDScript
-- Lua
-- JavaScript
-- TypeScript
+### Interests
 
-Interests
-
-- Game Systems
-- Gameplay Programming
-- Interactive Applications
-- Simulation
-- Game Tools
-- Performance Optimization
+**Game Systems • Gameplay Programming • Interactive Applications • Simulation • Game Tools • Performance**
 
 ---
 
-🧰 Technology Stack
+# 🟣 ◆ TECHNOLOGY STACK
 
-Frontend
+### FRONTEND
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
+`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS`
 
-Backend
+### BACKEND
 
-- Node.js
-- Python
-- FastAPI
-- REST APIs
-- Server-side applications
+`Node.js` `Python` `FastAPI` `REST APIs`
 
-AI
+### AI
 
-- Python
-- Machine Learning
-- Computer Vision
-- AI APIs
-- Local AI
-- RAG systems
-- AI automation
+`Python` `Machine Learning` `Computer Vision` `AI APIs` `Local AI` `RAG` `AI Automation`
 
-Databases
+### DATABASE
 
-- PostgreSQL
-- Supabase
-- SQL
-- Vector databases
+`PostgreSQL` `Supabase` `SQL` `Vector Databases`
 
-Cloud & Deployment
+### CLOUD & DEPLOYMENT
 
-- Vercel
-- GitHub
-- GitHub Actions
-- Supabase
-- Cloud platforms
+`Vercel` `GitHub` `GitHub Actions` `Supabase`
 
-DevOps
+### DEVOPS
 
-- Git
-- GitHub
-- CI/CD
-- Docker
-- Automated testing
-- Deployment pipelines
+`Git` `GitHub` `CI/CD` `Docker` `Automated Testing` `Deployment Pipelines`
 
-Hardware / IoT
+### HARDWARE / IoT
 
-- ESP32
-- ESP32-CAM
-- Sensors
-- GPS
-- Motor controllers
-- Robotics
-- IoT communication
+`ESP32` `ESP32-CAM` `Sensors` `GPS` `Motor Controllers` `Robotics` `IoT Communication`
 
 ---
 
-🌱 AgriTech + Software
+# 🟡 ◆ AGRITECH × SOFTWARE
 
-As an Agricultural Engineering student, one of my main interests is combining my domain knowledge with software engineering.
+As an Agricultural Engineering student, one of my main interests is combining domain knowledge with software engineering.
 
-Focus Areas
+```text
+AGRICULTURE
+     ×
+ARTIFICIAL INTELLIGENCE
+     ×
+IoT
+     ×
+ROBOTICS
+     ×
+CLOUD
+     ↓
+SMART AGRICULTURE
+```
 
-Agriculture + AI + IoT + Robotics + Cloud
+### Focus Areas
 
-I want to develop systems that can help with:
-
-- Smart farming
-- Field monitoring
-- Agricultural robotics
-- Soil monitoring
-- Crop intelligence
+- Smart Farming
+- Field Monitoring
+- Agricultural Robotics
+- Soil Monitoring
+- Crop Intelligence
 - Automation
-- Data-driven decisions
-- Farmer-focused applications
+- Data-driven Decisions
+- Farmer-focused Applications
 
 ---
 
-🧠 Engineering Principles
+# 🟣 ◆ ENGINEERING PRINCIPLES
 
-I follow a simple development philosophy:
-
-Understand
+```text
+UNDERSTAND
     ↓
-Research
+RESEARCH
     ↓
-Design
+DESIGN
     ↓
-Build
+BUILD
     ↓
-Test
+TEST
     ↓
-Verify
+VERIFY
     ↓
-Deploy
+DEPLOY
     ↓
-Monitor
+MONITOR
     ↓
-Improve
+IMPROVE
     ↓
-Scale
-
-Principles
+SCALE
+```
 
 - Build before over-engineering
 - Test before claiming success
 - Security before deployment
 - Simplicity before unnecessary complexity
 - Real-world validation over assumptions
+- Clean and maintainable code
 - Continuous learning
 - Measurable improvement
-- Clean and maintainable code
 
 ---
 
-🎯 Current Focus
+# 🟡 ◆ CURRENT FOCUS
 
 Currently focusing on:
 
@@ -410,56 +409,45 @@ Currently focusing on:
 - PostgreSQL & Supabase
 - Cloud Deployment
 - GitHub & CI/CD
-- AI-powered applications
-- Agricultural technology
+- AI-powered Applications
+- Agricultural Technology
 - Robotics & IoT
-- Cybersecurity fundamentals
-- Open-source development
+- Cybersecurity Fundamentals
+- Open-source Development
 
 ---
 
-📊 GitHub Analytics
+# 🟣 ◆ GITHUB ANALYTICS
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gokulmaniraj2008-collab&show_icons=true&hide_border=true&bg_color=05020A&title_color=A855F7&icon_color=C084FC&text_color=F5F3FF" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulmaniraj2008-collab&hide_border=true&background=05020A&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=F5F3FF" /></div>---
+<div align="center">
 
-📈 Portfolio Highlights
+<img src="https://github-readme-stats.vercel.app/api?username=gokulmaniraj2008-collab&show_icons=true&hide_border=true&bg_color=050505&title_color=D4AF37&icon_color=A855F7&text_color=FFFFFF&border_color=7C3AED" width="48%"/>
 
-Software Engineering
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulmaniraj2008-collab&hide_border=true&background=050505&ring=D4AF37&fire=A855F7&currStreakLabel=D4AF37&sideLabels=FFFFFF&border=7C3AED" width="48%"/>
 
-→ Full-stack applications
-→ AI-powered products
-→ Developer tools
-→ Cloud platforms
-→ Automation systems
-
-Artificial Intelligence
-
-→ AI assistants
-→ RAG systems
-→ Computer vision
-→ Data-driven applications
-→ Intelligent automation
-
-Agricultural Technology
-
-→ Smart agriculture
-→ Agricultural robotics
-→ IoT monitoring
-→ Sensor-based systems
-→ AI-assisted farming
-
-Engineering
-
-→ Embedded systems
-→ Systems programming
-→ Performance engineering
-→ Hardware/software integration
+</div>
 
 ---
 
-🎯 Long-Term Goals
+# 🟡 ◆ DEVELOPMENT PHILOSOPHY
 
-- Become a highly capable Full Stack Developer
+I don't want to only **learn technologies**.
+
+I want to:
+
+**Learn → Build → Break → Debug → Improve → Ship**
+
+Every project should teach something.
+
+Every failure should provide data.
+
+Every iteration should make the system better.
+
+---
+
+# 🟣 ◆ LONG-TERM GOALS
+
+- Become a strong Full Stack Developer
 - Become a strong AI Engineer
 - Build production-ready software products
 - Develop scalable AI systems
@@ -471,72 +459,78 @@ Engineering
 
 ---
 
-⚡ Daily Development Workflow
+# 🟡 ◆ DAILY DEVELOPMENT WORKFLOW
 
+```text
 IDEA
-  ↓
+ ↓
 RESEARCH
-  ↓
+ ↓
 ARCHITECTURE
-  ↓
+ ↓
 BUILD
-  ↓
+ ↓
 TEST
-  ↓
+ ↓
 VERIFY
-  ↓
+ ↓
 DEPLOY
-  ↓
+ ↓
 MONITOR
-  ↓
+ ↓
 IMPROVE
-  ↓
+ ↓
 SCALE
+```
+
+**Idea → Product → Implementation → Verification → Real-World Impact**
 
 ---
 
-🌍 Open Source
+# 🟣 ◆ OPEN SOURCE
 
-I am interested in contributing to the developer community through:
+Interested in contributing to:
 
-- Open-source projects
+- Open-source software
 - Developer tools
-- AI experiments
-- Documentation
-- Technical learning
-- Reusable software
+- AI projects
+- Technical documentation
+- Reusable libraries
+- Automation
 - Community projects
 
 ---
 
-💡 My Approach
+# 🟡 ◆ MY APPROACH
 
 I don't want to only learn technologies.
 
 I want to:
 
-Learn → Build → Break → Debug → Improve → Ship
+```text
+LEARN → BUILD → BREAK → DEBUG → IMPROVE → SHIP
+```
 
 Every project is an opportunity to understand something deeper.
 
 ---
 
-🚀 Let's Build
+# 🟣 ◆ LET'S BUILD
 
-I'm interested in collaborating on:
+Interested in collaborating on:
 
-- AI projects
-- Full-stack applications
-- AgriTech
-- Robotics
-- IoT
-- Automation
-- Developer tools
-- Open-source projects
-- Startup ideas
+**AI • Full Stack • AgriTech • Robotics • IoT • Automation • Developer Tools • Open Source • Startups**
 
-«Building software that moves from idea → implementation → real-world impact.»
+> **Building software that moves from idea → implementation → real-world impact.**
 
-<div align="center">DREAM • BUILD • SCALE
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:000000&height=120&section=footer"/></div>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+VERIFY+%E2%86%92+SCALE;DREAM+%E2%80%A2+BUILD+%E2%80%A2+SCALE;SOFTWARE+%E2%80%A2+AI+%E2%80%A2+AGRITECH+%E2%80%A2+ROBOTICS" />
+
+<br>
+
+### **🟣 D R E A M  •  🟡 B U I L D  •  🟣 S C A L E**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,40:A855F7,70:7C3AED,100:000000&height=150&section=footer" width="100%"/>
+
+</div>
