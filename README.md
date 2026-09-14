@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1f2937,100:D4AF37&height=240&section=header&text=GOKUL&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Founder%20of%20GKFXL%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=57&descSize=17" width="100%" alt="Gokul profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:D4AF37,100:000000&height=230&section=header&text=GOKUL&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Founder%20of%20GKFXL%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=57&descSize=17" width="100%" alt="Gokul profile header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2800&pause=850&color=D4AF37&center=true&vCenter=true&width=950&lines=Welcome+to+My+GitHub+Profile;Founder+of+GKFXL;Full-Stack+Developer;AI+Engineer;Startup+Builder;Building+AI+Products;Building+SaaS+Platforms;Building+Smart+Agriculture+Solutions;Turning+Ideas+Into+Products;Learn+%E2%80%A2+Build+%E2%80%A2+Test+%E2%80%A2+Ship+%E2%80%A2+Improve" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=D4AF37&center=true&vCenter=true&width=900&lines=Founder+of+GKFXL;Full-Stack+Developer;AI+Engineer;Startup+Builder;Building+AI+Products;Building+SaaS+Platforms;Building+Smart+Agriculture+Solutions;Turning+Ideas+Into+Products;Always+Learning+%E2%80%A2+Always+Building" alt="Animated introduction"/>
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<a href="#about-me">About</a> • <a href="#featured-projects">Projects</a> • <a href="#core-stack">Stack</a> • <a href="#ai-engineering">AI</a> • <a href="#agritech--smart-agriculture">AgriTech</a> • <a href="#github-proof">GitHub</a> • <a href="#lets-build">Connect</a>
+<a href="#about-me">About</a> • <a href="#featured-projects">Projects</a> • <a href="#core-stack">Stack</a> • <a href="#ai-engineering">AI</a> • <a href="#agritech">AgriTech</a> • <a href="#github-proof">GitHub</a> • <a href="#lets-build">Connect</a>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 I'm **Gokul** — Founder of **GKFXL**, Full-Stack Developer, AI Engineer, startup builder, and Agricultural Engineering student.
 
-I build complete products rather than isolated demos, with a focus on useful software, AI, automation, and technology for agriculture.
+I build complete products at the intersection of **software, AI, automation, and agriculture** — from idea and architecture to deployment and iteration.
 
 > **Find a real problem → understand it → design the system → build it → test it → ship it → improve it.**
 
@@ -32,13 +32,11 @@ I build complete products rather than isolated demos, with a focus on useful sof
 | Area | Focus |
 |---|---|
 | 🤖 AI | LLM applications, RAG, assistants, intelligent workflows |
-| 🌐 Web | Full-stack applications, SaaS, dashboards, APIs |
-| 📱 Mobile | Android and cross-platform applications |
+| 🌐 Web | Full-stack apps, SaaS, dashboards, APIs |
 | ☁️ Cloud | Vercel, Supabase, Docker, CI/CD |
-| 🌾 AgriTech | Smart farming, agricultural AI, market intelligence |
+| 🌾 AgriTech | Smart farming, market intelligence, agricultural AI |
 | ⚙️ Automation | Developer tools, workflows, productivity systems |
-| 🤖 Robotics | ESP32, sensors, IoT and agricultural robotics |
-| 🧠 Product | MVPs, UX, architecture and product engineering |
+| 🤖 Robotics | ESP32, sensors, IoT, agricultural robotics |
 
 ---
 
@@ -52,13 +50,13 @@ AI + SOFTWARE + AUTOMATION + AGRICULTURE + EDUCATION + BUSINESS
 
 > **Build useful technology from India for people everywhere.**
 
-The mission is to create practical, scalable systems that help students, developers, startups, businesses, farmers, rural communities, and technology teams.
+The mission is to create practical, scalable systems for students, developers, startups, businesses, farmers, rural communities, and technology teams.
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌾 FarmPlug AI
+## 🌾 FarmPlug AI
 **Your Farm's Plug to Every Market.**
 
 AI-powered agricultural market intelligence connecting:
@@ -73,12 +71,11 @@ Farmers / FPOs ↔ FarmPlug AI ↔ Buyers / Processors / Exporters
 - 🛒 Buyer matching
 - 📦 Bulk aggregation
 - 🚚 Route optimization
-- 📊 Market intelligence
 - 🤝 Stronger market linkages
 
 **Stack:** Next.js · TypeScript · AI · Supabase
 
-### 🤖 AgriBot AI
+## 🤖 AgriBot AI
 
 Smart agriculture robotics combining **software + AI + IoT + robotics + agriculture**.
 
@@ -88,50 +85,37 @@ Smart agriculture robotics combining **software + AI + IoT + robotics + agricult
 - 📷 Crop observation
 - 🚧 Obstacle detection
 - 🤖 Robotic movement
-- 📊 Sensor monitoring
 - ☁️ Cloud-connected control
 
 **Hardware:** ESP32 · ESP32-CAM · GPS · Sensors · Motors
 
 **Software:** Next.js · TypeScript · Supabase · IoT
 
-### 🏢 GKFXL Platform
+## 🏢 GKFXL Platform
 
-Technology and startup ecosystem focused on productivity, business systems, analytics, learning, AI tools, and founder workflows.
+Founder-focused technology ecosystem covering productivity, business systems, analytics, learning, AI tools, and workflows.
 
 **Stack:** Next.js · TypeScript · Supabase · PostgreSQL
 
-### 👕 DRYNN
+## 👕 DRYNN
 
 Premium streetwear and custom apparel platform.
 
 **Stack:** Next.js · Supabase · Cloudinary
 
-### 🛒 Santro
+## 🛒 Santro
 
-Multi-vendor marketplace concept connecting:
+Multi-vendor marketplace concept connecting **Customers → Shops → Delivery Partners**.
 
-```text
-Customers → Shops → Delivery Partners
-```
-
-**Focus:** Authentication · Products · Orders · Payments · Logistics · Vendor Management
+**Focus:** Auth · Products · Orders · Payments · Logistics · Vendor Management
 
 **Stack:** Next.js · Supabase · PostgreSQL
 
-### 🧠 GGE
+## 🧠 GGE
 
-AI-powered guidance platform focused on education, careers, learning resources, government information, practical solutions, and rural communities.
+AI-powered guidance platform for education, careers, learning resources, government information, and practical solutions.
 
 **Stack:** Next.js · AI · Tailwind CSS
-
----
-
-# 🧠 What I Build
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2400&pause=700&color=D4AF37&center=true&vCenter=true&width=900&lines=AI-Powered+Applications;SaaS+Platforms;Full-Stack+Products;Developer+Tools;Smart+Agriculture;IoT+Systems;Robotics;Automation+Systems;Startup+MVPs;Data-Driven+Platforms;Cloud+Applications" alt="What I build"/>
-</div>
 
 ---
 
@@ -150,40 +134,33 @@ AI-powered guidance platform focused on education, careers, learning resources, 
 ### 🧪 Exploring
 **C · C++ · Java · C# · Go · Rust · Kotlin · Swift · Dart · R · MATLAB · Julia · PHP · Ruby · Lua · Scala · Zig**
 
-> Technology coverage represents learning, experimentation, project exposure, and expanding engineering capability. It does not imply equal proficiency across every technology.
+> Technology coverage represents learning, experimentation, project exposure, and expanding engineering capability — not equal proficiency across every technology.
 
 ---
 
 # 🌐 Full-Stack Engineering
 
-**Frontend:** React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
-
-**Backend:** Node.js · Express.js · Next.js APIs · REST APIs
-
-**Data:** PostgreSQL · Supabase · SQL · Firebase
-
-**Auth:** Supabase Auth · Sessions · Role-Based Access
-
+**Frontend:** React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS  
+**Backend:** Node.js · Express.js · Next.js APIs · REST APIs  
+**Data:** PostgreSQL · Supabase · SQL · Firebase  
+**Auth:** Supabase Auth · Sessions · Role-Based Access  
 **APIs:** REST · GraphQL · AI APIs · Third-Party Integrations
 
 ---
 
 # 🤖 AI Engineering
 
-My AI work and learning focuses on:
+I build and explore:
 
 - LLM applications
 - AI assistants
 - Retrieval-Augmented Generation
 - Embeddings
 - AI APIs
-- Prompt engineering
-- AI automation
 - Intelligent workflows
 - Multimodal AI
 - AI-powered SaaS
-- Local AI
-- AI agents
+- Local AI and agents
 - Decision-support systems
 
 **AI Stack:** Python · TypeScript · AI APIs · RAG · Embeddings · LangChain · Hugging Face · Local AI
@@ -194,15 +171,15 @@ My AI work and learning focuses on:
 
 **Git · GitHub · GitHub Actions · Docker · Linux · Vercel · Render · Supabase**
 
-Focus: CI/CD · deployment · environment management · cloud applications · build pipelines · production workflows
+Focus: **CI/CD · deployment · environment management · cloud applications · build pipelines · production workflows**
 
 ---
 
 # 🔐 Security Mindset
 
-Security belongs throughout the development lifecycle.
+Security is part of the development lifecycle.
 
-- 🔑 Environment-variable and secret protection
+- 🔑 Protect environment variables and secrets
 - 🔒 Authentication and authorization
 - ✅ Input validation
 - 🛡️ API and database security
@@ -213,9 +190,9 @@ Security belongs throughout the development lifecycle.
 
 ---
 
-# 🌾 AgriTech & Smart Agriculture
+# 🌾 AgriTech
 
-My Agricultural Engineering background creates a unique intersection:
+My Agricultural Engineering background creates a strong intersection:
 
 ```text
 Agriculture + Software + AI + IoT + Robotics
@@ -223,16 +200,7 @@ Agriculture + Software + AI + IoT + Robotics
 
 Areas of interest:
 
-- Smart farming
-- Precision agriculture
-- Crop monitoring
-- Soil intelligence
-- Irrigation automation
-- Agricultural robotics
-- Market intelligence
-- Farmer decision support
-- Rural technology
-- Agricultural AI
+**Smart farming · Precision agriculture · Crop monitoring · Soil intelligence · Irrigation automation · Agricultural robotics · Market intelligence · Farmer decision support · Rural technology · Agricultural AI**
 
 > **Use engineering to solve practical agricultural problems.**
 
@@ -264,17 +232,13 @@ Areas of interest:
 🔄 ITERATE
 ```
 
-I care about the complete lifecycle, not only writing code.
+I care about the complete lifecycle — not just writing code.
 
----
-
-# 🚀 Startup Builder Mindset
+### Startup Mindset
 
 ```text
 Problem → User → Product → Technology → Business → Distribution → Growth
 ```
-
-I think about product-market fit, UX, business models, MVP development, automation, scalability, customer value, and long-term product strategy.
 
 ---
 
@@ -308,35 +272,23 @@ I think about product-market fit, UX, business models, MVP development, automati
 
 # 📚 Currently Learning
 
-Advanced Next.js · AI Engineering · LLM Applications · RAG · System Design · Cloud Architecture · PostgreSQL · Docker · DevOps · Machine Learning · Automation · Robotics · Agricultural Technology
+**Advanced Next.js · AI Engineering · LLM Applications · RAG · System Design · Cloud Architecture · PostgreSQL · Docker · DevOps · Machine Learning · Automation · Robotics · Agricultural Technology**
 
 ---
 
 # 🔬 Research Interests
 
-AI for agriculture · AI agents · autonomous systems · agricultural robotics · rural technology · intelligent marketplaces · decision-support systems · local AI · developer productivity · automation · cloud architecture · human-AI collaboration
+**AI for agriculture · AI agents · autonomous systems · agricultural robotics · rural technology · intelligent marketplaces · decision-support systems · local AI · developer productivity · automation · cloud architecture · human-AI collaboration**
 
 ---
 
 # 🌍 Building in Public
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=D4AF37&center=true&vCenter=true&width=850&lines=Learning+%E2%86%92+Experimenting+%E2%86%92+Building;Failing+%E2%86%92+Debugging+%E2%86%92+Improving;Ideas+%E2%86%92+Products+%E2%86%92+Impact;Building+from+India+%F0%9F%87%AE%F0%9F%87%B3+for+the+World+%F0%9F%8C%8D" alt="Building in public"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2600&pause=800&color=D4AF37&center=true&vCenter=true&width=850&lines=Learning+%E2%86%92+Experimenting+%E2%86%92+Building;Failing+%E2%86%92+Debugging+%E2%86%92+Improving;Ideas+%E2%86%92+Products+%E2%86%92+Impact;Building+from+India+%F0%9F%87%AE%F0%9F%87%B3+for+the+World+%F0%9F%8C%8D" alt="Building in public"/>
 </div>
 
-I believe development is also **learning → experimenting → failing → debugging → improving → sharing**.
-
----
-
-# 🇮🇳 India → 🌍 Global
-
-<div align="center">
-
-### **Building from India. Thinking globally. Solving real problems.**
-
-</div>
-
-My long-term goal is to create products from India that solve problems globally while staying connected to real-world needs.
+I believe development is **learning → experimenting → failing → debugging → improving → sharing**.
 
 ---
 
@@ -354,31 +306,27 @@ My long-term goal is to create products from India that solve problems globally 
 
 ---
 
+# 🇮🇳 India → 🌍 Global
+
+<div align="center">
+
+### **Building from India. Thinking globally. Solving real problems.**
+
+</div>
+
+My long-term goal is to create products from India that solve problems globally while staying connected to real-world needs.
+
+---
+
 # 💡 What I Can Build
 
-```text
-AI Applications
-SaaS Platforms
-Full-Stack Web Apps
-AI Assistants
-RAG Systems
-Developer Tools
-Mobile Applications
-Automation Systems
-IoT Platforms
-Robotics Systems
-Smart Agriculture Solutions
-Market Intelligence Platforms
-Dashboards & Analytics
-Cloud Applications
-Startup MVPs
-```
+**AI Applications · SaaS Platforms · Full-Stack Web Apps · AI Assistants · RAG Systems · Developer Tools · Mobile Apps · Automation · IoT · Robotics · Smart Agriculture · Market Intelligence · Dashboards · Cloud Applications · Startup MVPs**
 
 ---
 
 # 🤝 Let's Build
 
-I'm interested in **AI Products · SaaS · Developer Tools · AgriTech · Automation · IoT · Robotics · Ambitious Startup Ideas**.
+I'm interested in **AI Products · SaaS · Developer Tools · AgriTech · Automation · IoT · Robotics · Open Source · Ambitious Startup Ideas**.
 
 <div align="center">
 
@@ -387,6 +335,10 @@ I'm interested in **AI Products · SaaS · Developer Tools · AgriTech · Automa
 <br/>
 
 ⭐ **If you find something useful here, consider starring a repository.**
+
+<br/><br/>
+
+Founder • Developer • AI Engineer • Builder
 
 <br/><br/>
 
