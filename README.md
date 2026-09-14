@@ -129,6 +129,12 @@ AI-powered guidance platform focused on education, career guidance, learning res
   <p><em>Web • Mobile • AI • Systems • Databases • Automation • Cloud • IoT • Robotics</em></p>
 </div>
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,nextjs,express,nodejs,mongodb,firebase,materialui,git,github,vscode,jest,reactquery,postman,stackoverflow&perline=13" alt="Languages and Tools" />
+  </a>
+</div>
+
 ### 🔹 Popular General-Purpose Languages
 
 Python • Java • C • C++ • C# • JavaScript • TypeScript • Go (Golang) • Rust • Kotlin • Swift • Dart • Ruby • PHP • R • MATLAB • Scala • Perl • Lua • Objective-C
