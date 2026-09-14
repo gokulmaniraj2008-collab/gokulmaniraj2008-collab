@@ -116,69 +116,126 @@ Autonomous farming robot for soil monitoring, irrigation automation, crop health
 </tr>
 </table>
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-**Frontend**
+### 🔹 Programming Languages
 
-**Backend**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+<img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white" />
 
-**Databases**
+### 🌐 Web Development
 
-**Languages**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
-**AI & Machine Learning**
+### 📱 Mobile Development
 
-**Cloud & DevOps**
-
-**Tools**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>
-
-## 🔹 Programming Language & Technology Landscape
-
-### 🔹 General-purpose languages
-
-`Python` · `Java` · `C` · `C++` · `C#` · `JavaScript` · `TypeScript` · `Go (Golang)` · `Rust` · `Kotlin` · `Swift` · `Dart` · `Ruby` · `PHP` · `R` · `MATLAB` · `Scala` · `Perl` · `Lua` · `Objective-C`
-
-### 🌐 Web development
-
-`HTML` *(markup, not a programming language)* · `CSS` *(style language)* · `JavaScript` · `TypeScript` · `PHP` · `Python` · `Ruby` · `Go` · `Rust`
-
-### 📱 Mobile development
-
-- `Dart` → Flutter
-- `Kotlin` → Android
-- `Swift` → iOS
-- `Java` → Android
-- `C#` → .NET / MAUI
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> → Flutter
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> → Android
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" /> → iOS
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> → Android
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" /> → .NET / MAUI
 
 ### 🤖 AI / Data Science
 
-`Python` · `R` · `Julia` · `MATLAB` · `C++` · `Rust`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
-### ⚙️ Systems / high performance
+### ⚙️ Systems / High Performance
 
-`C` · `C++` · `Rust` · `Go` · `Zig` · `Assembly`
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black" />
+<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 
-### 🗄️ Database / query languages
+### 🗄️ Database / Query Languages
 
-`SQL` · `PL/SQL` · `T-SQL` · `GraphQL` *(query language)*
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
-### 🖥️ Scripting / automation
+### 🖥️ Scripting / Automation
 
-`Bash / Shell` · `PowerShell` · `Python` · `JavaScript` · `Perl` · `Ruby`
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 
-### 🎮 Game development
+### 🎮 Game Development
 
-`C++` · `C#` · `GDScript` · `Lua` · `JavaScript / TypeScript`
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+### 🧩 Frameworks & Platforms
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+
+### 🗃️ Databases, Cloud & Tools
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>
 
@@ -227,15 +284,6 @@ Full Stack Projects • Product Design • Cloud Applications
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=santro&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=FFFFFF" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=drynn&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=FFFFFF" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=gge&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=FFFFFF" />
-<sub>Replace repo names above with your actual repository names to activate these cards.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>
-
-## 📚 Currently Learning
-
-<div align="center">
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>
@@ -273,12 +321,6 @@ I believe in shipping end-to-end — from database schema to deployed UI — and
 🌾 Merging agricultural engineering with AI and robotics  
 ⚡ Has designed and built 100+ software prototypes  
 🛠️ Prefers full end-to-end ownership of every product
-
-<div align="center">
-
-### 💬 Random Developer Quote
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0A0A0A&height=3&width=100%"/>
 
