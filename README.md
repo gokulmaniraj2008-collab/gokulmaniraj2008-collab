@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:D4AF37,100:000000&height=230&section=header&text=GOKUL&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Founder%20of%20GKFXL%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=57&descSize=17" width="100%" alt="Gokul profile header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=D4AF37&center=true&vCenter=true&width=900&lines=Founder+of+GKFXL;Full-Stack+Developer;AI+Engineer;Startup+Builder;Building+AI+Products;Building+SaaS+Platforms;Building+Smart+Agriculture+Solutions;Turning+Ideas+Into+Products;Always+Learning+%E2%80%A2+Always+Building" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=D4AF37&center=true&vCenter=true&width=900&lines=Founder+of+GKFXL;Full-Stack+Developer;AI+Engineer;Startup+Builder;Building+AI+%2B+SaaS+Products;Building+Smart+Agriculture+Solutions;Always+Learning+%E2%80%A2+Always+Building" alt="Animated introduction"/>
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<a href="#about-me">About</a> • <a href="#featured-projects">Projects</a> • <a href="#core-stack">Stack</a> • <a href="#ai-engineering">AI</a> • <a href="#agritech">AgriTech</a> • <a href="#github-proof">GitHub</a> • <a href="#lets-build">Connect</a>
+<a href="#about-me">About</a> • <a href="#featured-projects">Projects</a> • <a href="#engineering-stack">Stack</a> • <a href="#ai-engineering">AI</a> • <a href="#agritech">AgriTech</a> • <a href="#github-proof">GitHub</a> • <a href="#lets-build">Connect</a>
 
 </div>
 
@@ -23,20 +23,17 @@
 
 I'm **Gokul** — Founder of **GKFXL**, Full-Stack Developer, AI Engineer, startup builder, and Agricultural Engineering student.
 
-I build complete products at the intersection of **software, AI, automation, and agriculture** — from idea and architecture to deployment and iteration.
+I build practical products at the intersection of **software, AI, automation, agriculture, and business** — from problem discovery and architecture to development, testing, deployment, and iteration.
 
 > **Find a real problem → understand it → design the system → build it → test it → ship it → improve it.**
 
-### What I Build
+### 🎯 Mission
 
-| Area | Focus |
-|---|---|
-| 🤖 AI | LLM applications, RAG, assistants, intelligent workflows |
-| 🌐 Web | Full-stack apps, SaaS, dashboards, APIs |
-| ☁️ Cloud | Vercel, Supabase, Docker, CI/CD |
-| 🌾 AgriTech | Smart farming, market intelligence, agricultural AI |
-| ⚙️ Automation | Developer tools, workflows, productivity systems |
-| 🤖 Robotics | ESP32, sensors, IoT, agricultural robotics |
+Build useful, scalable technology that solves real problems and turns ambitious ideas into working products.
+
+### 🌍 Vision
+
+**Build from India → solve real problems → create global impact.**
 
 ---
 
@@ -48,18 +45,17 @@ I build complete products at the intersection of **software, AI, automation, and
 AI + SOFTWARE + AUTOMATION + AGRICULTURE + EDUCATION + BUSINESS
 ```
 
-> **Build useful technology from India for people everywhere.**
-
-The mission is to create practical, scalable systems for students, developers, startups, businesses, farmers, rural communities, and technology teams.
+The goal is to create practical systems for students, developers, startups, businesses, farmers, rural communities, and technology teams.
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🌾 FarmPlug AI
+
 **Your Farm's Plug to Every Market.**
 
-AI-powered agricultural market intelligence connecting:
+AI-powered marketplace intelligence connecting:
 
 ```text
 Farmers / FPOs ↔ FarmPlug AI ↔ Buyers / Processors / Exporters
@@ -73,7 +69,7 @@ Farmers / FPOs ↔ FarmPlug AI ↔ Buyers / Processors / Exporters
 - 🚚 Route optimization
 - 🤝 Stronger market linkages
 
-**Stack:** Next.js · TypeScript · AI · Supabase
+**Stack:** Next.js · TypeScript · Supabase · AI
 
 ## 🤖 AgriBot AI
 
@@ -91,11 +87,17 @@ Smart agriculture robotics combining **software + AI + IoT + robotics + agricult
 
 **Software:** Next.js · TypeScript · Supabase · IoT
 
-## 🏢 GKFXL Platform
+## 🧠 GKFXL Platform
 
-Founder-focused technology ecosystem covering productivity, business systems, analytics, learning, AI tools, and workflows.
+Technology ecosystem for productivity, AI tools, business systems, analytics, learning, and workflows.
 
 **Stack:** Next.js · TypeScript · Supabase · PostgreSQL
+
+## 🧠 GGE
+
+AI-powered guidance platform for education, careers, learning resources, government information, and practical solutions.
+
+**Stack:** Next.js · AI · Tailwind CSS
 
 ## 👕 DRYNN
 
@@ -111,15 +113,9 @@ Multi-vendor marketplace concept connecting **Customers → Shops → Delivery P
 
 **Stack:** Next.js · Supabase · PostgreSQL
 
-## 🧠 GGE
-
-AI-powered guidance platform for education, careers, learning resources, government information, and practical solutions.
-
-**Stack:** Next.js · AI · Tailwind CSS
-
 ---
 
-# 🧰 Core Stack
+# 🧰 Engineering Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,postgres,supabase,docker,git,github,vercel,linux,figma&perline=8" alt="Core engineering stack"/>
@@ -128,23 +124,26 @@ AI-powered guidance platform for education, careers, learning resources, governm
 ### 🥇 Primary
 **TypeScript · JavaScript · Python · React · Next.js · Supabase · PostgreSQL**
 
-### 🥈 Active
-**AI Engineering · RAG · REST APIs · Docker · GitHub Actions · Cloud · IoT · Robotics · Smart Agriculture**
+### ⚡ Active
+**AI Engineering · RAG · REST APIs · Docker · GitHub Actions · Vercel · Cloud · IoT · Robotics**
 
 ### 🧪 Exploring
 **C · C++ · Java · C# · Go · Rust · Kotlin · Swift · Dart · R · MATLAB · Julia · PHP · Ruby · Lua · Scala · Zig**
 
-> Technology coverage represents learning, experimentation, project exposure, and expanding engineering capability — not equal proficiency across every technology.
+> Technology coverage represents learning, experimentation, project exposure, and expanding capability — not equal proficiency across every technology.
 
 ---
 
 # 🌐 Full-Stack Engineering
 
-**Frontend:** React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS  
-**Backend:** Node.js · Express.js · Next.js APIs · REST APIs  
-**Data:** PostgreSQL · Supabase · SQL · Firebase  
-**Auth:** Supabase Auth · Sessions · Role-Based Access  
-**APIs:** REST · GraphQL · AI APIs · Third-Party Integrations
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind |
+| **Backend** | Node.js · Express · Next.js APIs · REST |
+| **Data** | PostgreSQL · Supabase · SQL · Firebase |
+| **Auth** | Supabase Auth · Sessions · RBAC |
+| **APIs** | REST · GraphQL · AI APIs · Integrations |
+| **Deployment** | Vercel · Docker · GitHub Actions |
 
 ---
 
@@ -155,12 +154,12 @@ I build and explore:
 - LLM applications
 - AI assistants
 - Retrieval-Augmented Generation
-- Embeddings
+- Embeddings and semantic search
 - AI APIs
 - Intelligent workflows
 - Multimodal AI
 - AI-powered SaaS
-- Local AI and agents
+- Local AI and agent systems
 - Decision-support systems
 
 **AI Stack:** Python · TypeScript · AI APIs · RAG · Embeddings · LangChain · Hugging Face · Local AI
@@ -195,7 +194,7 @@ Security is part of the development lifecycle.
 My Agricultural Engineering background creates a strong intersection:
 
 ```text
-Agriculture + Software + AI + IoT + Robotics
+AGRICULTURE + SOFTWARE + AI + IoT + ROBOTICS
 ```
 
 Areas of interest:
@@ -210,35 +209,49 @@ Areas of interest:
 
 ```text
 💡 IDEA
-   ↓
+  ↓
 🔎 RESEARCH
-   ↓
+  ↓
 🎯 PROBLEM
-   ↓
+  ↓
 🏗️ ARCHITECTURE
-   ↓
+  ↓
 🎨 DESIGN
-   ↓
+  ↓
 💻 DEVELOPMENT
-   ↓
+  ↓
 🧪 TESTING
-   ↓
+  ↓
 🔐 SECURITY
-   ↓
+  ↓
 🚀 DEPLOYMENT
-   ↓
+  ↓
 📊 MEASURE
-   ↓
+  ↓
 🔄 ITERATE
 ```
 
-I care about the complete lifecycle — not just writing code.
+I care about the complete product lifecycle — not just writing code.
 
 ### Startup Mindset
 
 ```text
 Problem → User → Product → Technology → Business → Distribution → Growth
 ```
+
+---
+
+# 🧭 Engineering Principles
+
+| Principle | Meaning |
+|---|---|
+| **Build** | Ideas become valuable when they become real products. |
+| **Learn** | Every project should increase capability. |
+| **Experiment** | Prototypes create understanding faster than assumptions. |
+| **Validate** | Real problems and feedback matter. |
+| **Secure** | Security is part of engineering. |
+| **Ship** | Useful software beats unfinished perfection. |
+| **Improve** | Every release creates the next opportunity. |
 
 ---
 
@@ -292,17 +305,25 @@ I believe development is **learning → experimenting → failing → debugging 
 
 ---
 
-# 🧭 Engineering Principles
+# 🎯 Goals
 
-| Principle | Meaning |
-|---|---|
-| **Build** | Ideas become valuable when they become real products. |
-| **Learn** | Every project should increase capability. |
-| **Experiment** | Prototypes create understanding faster than assumptions. |
-| **Validate** | Real problems and feedback matter. |
-| **Secure** | Security is part of engineering, not an afterthought. |
-| **Ship** | Useful software in production beats unfinished perfection. |
-| **Improve** | Every release creates the next opportunity. |
+- Build products that solve real problems
+- Grow GKFXL into a meaningful technology ecosystem
+- Create scalable AI and SaaS products
+- Push practical AgriTech innovation
+- Contribute to open source
+- Strengthen system design and production engineering
+- Build from India for global users
+
+---
+
+# 🌐 Open Source & Collaboration
+
+Interested in collaborating around:
+
+**AI Products · SaaS · Developer Tools · AgriTech · Automation · IoT · Robotics · Open Source · Ambitious Startup Ideas**
+
+If a project solves a real problem and can create measurable value, I'm interested in building it.
 
 ---
 
@@ -314,23 +335,15 @@ I believe development is **learning → experimenting → failing → debugging 
 
 </div>
 
-My long-term goal is to create products from India that solve problems globally while staying connected to real-world needs.
-
----
-
-# 💡 What I Can Build
-
-**AI Applications · SaaS Platforms · Full-Stack Web Apps · AI Assistants · RAG Systems · Developer Tools · Mobile Apps · Automation · IoT · Robotics · Smart Agriculture · Market Intelligence · Dashboards · Cloud Applications · Startup MVPs**
+My long-term goal is to create technology from India that remains grounded in real-world needs while serving users globally.
 
 ---
 
 # 🤝 Let's Build
 
-I'm interested in **AI Products · SaaS · Developer Tools · AgriTech · Automation · IoT · Robotics · Open Source · Ambitious Startup Ideas**.
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2500&pause=850&color=D4AF37&center=true&vCenter=true&width=800&lines=Dream+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Ship;One+Problem+at+a+Time;One+Product+at+a+Time;Always+Learning;Always+Building" alt="Closing animation"/>
+### **Dream → Design → Build → Test → Ship → Improve**
 
 <br/>
 
